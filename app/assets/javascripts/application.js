@@ -13,7 +13,8 @@
 //= require jquery
 //= require jquery_ujs 
 //= require stocks
-//= require turbolinks
+//= require friends
+// require turbolinks
 //= require_tree .
 
 
